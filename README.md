@@ -5,4 +5,4 @@
 4. **Continue guessing:** Keep guessing until you find the correct number.
 5. **Win the game:** When you guess the correct number, the game will congratulate you and display the number of attempts you made.
 ## Features - Random number generation - User input for guessing - Feedback on whether the guess is too high or too low - Count of the number of attempts - Option to play again after winning
-In this way you can Play this game and Enjoy...
+In this way you can Play this game and Enjoy.
